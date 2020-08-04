@@ -1,3 +1,16 @@
+//------------------------------------------------------------------------------
+/// @file       hackc.cpp
+/// @author     Milos Milicevic (milosh.mkv@gmail.com)
+/// @brief      Hack assembly compiler.
+/// @version    0.1
+/// @date       2020-08-04
+///
+/// @copyright  Copyright (c) 2020
+///
+/// Distributed under the MIT software license, see the accompanying
+/// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+//------------------------------------------------------------------------------
+
 #include <iostream>
 #include <map>
 #include <fstream>
