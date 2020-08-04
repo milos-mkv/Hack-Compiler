@@ -209,7 +209,6 @@ void Compile_Hack_Code(std::vector<std::string>& hack_code)
 
 int main(int argc, const char ** argv)
 {
-    std::cout << (DESTINATIONS.count("NULL")) << std::endl;
     if(argc < 2)
     {
         std::cout << "Usage: hackc file..." << std::endl;
